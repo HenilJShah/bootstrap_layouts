@@ -1,0 +1,31 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+body{
+    background-color: #29303a;
+}
+
+.mydiv {
+    margin: 5px;
+    height: 200px;
+    background-color: aqua;
+    text-align: center;
+    font-size: large;
+}
+
+.text-center{
+    color: white;
+}
+
+hr{
+    background-color: white;
+}
+
+th{
+    color: white
+}
+
+td{
+    background-color: #cbcec1;
+}
